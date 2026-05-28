@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesetch",
+        "uuid": 27621132,
+        "checksum": "crplgx"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
